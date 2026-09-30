@@ -2,7 +2,7 @@ Hi, I'm Iyad 👋
 
 Full-Stack & Mobile Developer
 
-I build mobile apps, websites, and backend systems for businesses, startups, and personal projects.
+I build mobile apps,Desktop, websites, and backend systems for businesses, startups, and personal projects.
 
 I focus on turning ideas into clean, practical, and scalable software.
 
