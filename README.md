@@ -1,4 +1,4 @@
-Hi, I'm Iyad 👋
+## Hi, I'm Iyad 👋
 
 Full-Stack & Mobile Developer
 
@@ -22,7 +22,7 @@ I focus on turning ideas into clean, practical, and scalable software.
 
 🛠️ Tech Stack
 
-Mobile
+Mobile & Desktop
 
 Flutter • Dart
 
