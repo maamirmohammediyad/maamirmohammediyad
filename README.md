@@ -1,4 +1,4 @@
-💫 About Me
+## 💫 About Me
 
 I'm a Full-Stack & Mobile Developer focused on turning ideas into practical, reliable, and scalable software products.
 
@@ -14,9 +14,9 @@ I enjoy taking a project from idea → development → deployment, with a focus 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🩺 Bitaqati As-Sihiya
+# 🩺 Bitaqati As-Sihiya
 
 A full-stack digital health platform built with Flutter, Laravel, Next.js, and PostgreSQL, featuring role-based access, REST APIs, QR-code workflows, and multiple user roles.
 
@@ -24,7 +24,7 @@ A full-stack digital health platform built with Flutter, Laravel, Next.js, and P
 
 ---
 
-🛒 E-commerce Waitlist
+# 🛒 E-commerce Waitlist
 
 A web project focused on an e-commerce business use case.
 
@@ -32,7 +32,7 @@ A web project focused on an e-commerce business use case.
 
 ---
 
-🏭 Huilerie Charfi
+# 🏭 Huilerie Charfi
 
 A Flutter application developed for a real-world business use case.
 
